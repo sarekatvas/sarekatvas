@@ -22,7 +22,7 @@
 
 #### Как со мной связаться:
 - Email: katyaSarycheva03@gmail.com
-- Telegram: @sarekatvas
+- Email: sarkatvas@yandex.ru
 
 #### Статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarekatvas&show_icons=true&theme=pink)]() 
